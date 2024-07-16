@@ -1,0 +1,7 @@
+pandas
+streamlit
+requests
+transformers
+torch
+scikit-learn
+python-dotenv
